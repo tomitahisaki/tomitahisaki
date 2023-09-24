@@ -8,11 +8,11 @@
  # Languages and Tools
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,jquery,js,ts,react,next,vite,ruby,php,rails,git,github,docker,heroku,aws,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,jquery,js,ts,react,next,ruby,rails,git,github,docker,heroku,aws,linux" />
   </a>
 </p>
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,tailwind,codepen,discord,figma,postman,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=vscode,codepen,discord,figma,postman,raspberrypi" />
   </a>
 </p>
