@@ -1,3 +1,4 @@
+[はてなブログ](https://hisakit.hatenablog.com)
 # github-stats
  <img alt="Top Langs" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomitahisaki&theme=default" />
 <p align="left"> 
