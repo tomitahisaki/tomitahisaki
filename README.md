@@ -13,6 +13,6 @@
 </p>
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,codepen,discord,figma,postman,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=vscode,neovim,codepen,discord,figma,postman,raspberrypi" />
   </a>
 </p>
