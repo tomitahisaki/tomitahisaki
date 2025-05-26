@@ -2,8 +2,7 @@
 [柏.rb](https://kashiwarb.connpass.com/)
 
 # github-stats
-  <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tomitahisaki&theme=dark" />
-  <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tomitahisaki&theme=dark" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomitahisaki&langs_count=10&theme=dark)
 
  # Languages and Tools
   <p align="left">
