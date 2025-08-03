@@ -1,17 +1,26 @@
-[はてなブログ](https://hisakit.hatenablog.com)
-[柏.rb](https://kashiwarb.connpass.com/)
+# 👋 Hi there, I'm Hisaki Tomita
 
-# github-stats
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomitahisaki&langs_count=10&theme=dark)
+I'm a software developer based in Japan with experience in both backend and frontend development.
 
- # Languages and Tools
-  <p align="left">
+I mainly work with **Ruby on Rails**, but also enjoy building UIs with **React** and **Vue.js**.  
+I'm passionate about writing maintainable code, learning new technologies, and sharing knowledge through community events and blogging.
+
+## 🛠️ Tech Stack
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,ruby,rails,linux" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,ruby,rails,python,linux,docker" />
   </a>
 </p>
-  <p align="left">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,neovim,figma,raspberrypi" />
   </a>
 </p>
+
+## 📊 GitHub Stats
+![Hisaki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomitahisaki&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomitahisaki&layout=compact&langs_count=8&theme=dark)
+
+## 📝 Blog & Communities
+- 📘 [Hatena Blog](https://hisakit.hatenablog.com)
+- 🧑‍💻 [Kashiwa.rb - 柏のRubyコミュニティ](https://kashiwarb.connpass.com/)
