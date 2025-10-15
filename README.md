@@ -8,7 +8,7 @@ I'm passionate about writing maintainable code, learning new technologies, and s
 ## 🛠️ Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,ruby,rails,python,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,ruby,rails,golang,python,linux,docker" />
   </a>
 </p>
 <p align="left">
