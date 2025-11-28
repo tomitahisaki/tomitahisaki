@@ -24,3 +24,4 @@ I'm passionate about writing maintainable code, learning new technologies, and s
 ## 📝 Blog & Communities
 - 📘 [Hatena Blog](https://hisakit.hatenablog.com)
 - 🧑‍💻 [Kashiwa.rb - 柏のRubyコミュニティ](https://kashiwarb.connpass.com/)
+- 📑 [Speaker Deck - 登壇スライド](https://speakerdeck.com/tomitahisaki)
