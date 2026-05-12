@@ -17,10 +17,6 @@ I'm passionate about writing maintainable code, learning new technologies, and s
   </a>
 </p>
 
-## 📊 GitHub Stats
-![Hisaki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomitahisaki&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomitahisaki&layout=compact&langs_count=8&theme=dark)
-
 ## 📝 Blog & Communities
 - 📘 [Hatena Blog](https://hisakit.hatenablog.com)
 - 🧑‍💻 [Kashiwa.rb - 柏のRubyコミュニティ](https://kashiwarb.connpass.com/)
